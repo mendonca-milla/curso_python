@@ -14,5 +14,9 @@ argumento não nomeados 12, 34
 
 sep = separador ' - '
 
+12-34-1011#
+56-78
+9-10
+
 
 """
