@@ -13,12 +13,11 @@ print('Ano de nascimento:', ano_nascimento)
 print('É maior de idade:', maior_de_idade)
 print('Altura em metros:', altura_metros)
 
-"""
-Nome: Camilla
-sobrenome: Mendonça
-Idade: 27
-Ano de nascimento: 1998
-É maior de idade: True
-Altura em metros: 1.6
 
-"""
+# Nome: Camilla - string
+# sobrenome: Mendonça - string
+# Idade: 27 - int
+# Ano de nascimento: 1998 - int
+# É maior de idade: True - bool
+# Altura em metros: 1.6 - float
+
